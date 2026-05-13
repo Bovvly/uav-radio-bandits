@@ -19,7 +19,7 @@ This repository contains the implementation of the **Bayesian Belief Thompson Sa
 
 The proposed BB-TS algorithm significantly outperforms classical methods by rapidly recognizing channel degradation from just a few lost packets. The evaluation covers base, high-correlation, and fast-switching scenarios.
 
-![Regret Plot](figures/article_high_corr_regret_en.png)
+![Regret Plot](assets/article_high_corr_regret_en.png)
 
 *Comparison of cumulative regret across different strategies in a high-correlation scenario (Publication-quality plot).*
 
