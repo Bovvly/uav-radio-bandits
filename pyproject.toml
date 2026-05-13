@@ -1,0 +1,13 @@
+[project]
+name = "uav-radio-bandits-hmm"
+version = "0.1.0"
+description = "Bayesian Belief Thompson Sampling (BB-TS) for adaptive UAV radio channel selection in Gilbert-Elliott HMM environments."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.4.4",
+    "tqdm>=4.67.3",
+    "matplotlib>=3.9",
+    "scipy>=1.14",
+    "joblib>=1.5.3",
+]
